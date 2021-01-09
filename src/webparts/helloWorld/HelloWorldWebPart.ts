@@ -11,6 +11,7 @@ import * as strings from 'HelloWorldWebPartStrings';
 import HelloWorld from './components/HelloWorld';
 import { IHelloWorldProps } from './components/IHelloWorldProps';
 
+//comments sample again
 export interface IHelloWorldWebPartProps {
   description: string;
 }
